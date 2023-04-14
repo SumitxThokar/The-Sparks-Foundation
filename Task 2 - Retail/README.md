@@ -19,3 +19,7 @@ To use this project, simply open the Power BI file and explore the dashboard. Yo
 
 ## Conclusion
 By the end of this project, you will have learned how to use Power BI to create a visual dashboard and gain insights into a retail sales dataset. This project highlights the importance of making data-driven decisions to improve business performance, and how EDA can be used to identify the root causes of business problems. Have fun exploring the possibilities!
+
+
+
+![](https://github.com/SumitxThokar/Power-BI-Projects./blob/main/Retail/EDA.jpg)
